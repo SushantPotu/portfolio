@@ -1,8 +1,8 @@
 {
   "intro": "Hey!",
   "heroPhoto": {
-    "src": "../../images/mobile-phone.png",
-    "alt": ""
+    "src": "../../images/main.PNG",
+    "alt": "me"
   },
   "image": {
     "src": "../../images/waving-hand.png",

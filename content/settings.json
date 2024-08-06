@@ -28,8 +28,7 @@
       },
       "footer": [
         { "label": "About Me", "url": "/#about" },
-        { "label": "My Github", "url": "/#github" },
-        { "label": "Resume", "url": "/resume.pdf" }
+        { "label": "My Github", "url": "/#github" }
       ]
     },
     "featureToggles": {
