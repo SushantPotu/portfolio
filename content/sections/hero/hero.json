@@ -1,8 +1,8 @@
 {
-  "intro": "Hi!",
+  "intro": "Hey!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/mobile-phone.png",
+    "alt": ""
   },
   "image": {
     "src": "../../images/waving-hand.png",
@@ -10,13 +10,13 @@
   },
   "title": "I'm Sushant Potu",
   "subtitle": {
-    "prefix": "A Computer Science + Statistics student at UNC - Chapel Hill",
-    "highlight": " ",
+    "prefix": "A Computer Science + Statistics student at ",
+    "highlight": "UNC - Chapel Hill",
     "suffix": ""
   },
   "description": "",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
