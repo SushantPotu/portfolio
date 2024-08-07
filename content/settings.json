@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://sushant-potu.netlify.app/",
-    "title": "Sushant's Portfolio",
+    "title": "Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A simple portfolio website for Sushant's work.",
     "author": "Konstantin Münster",
@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Sushant's Portfolio" },
+    "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },
