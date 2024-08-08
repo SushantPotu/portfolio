@@ -2,6 +2,7 @@
 
 This portfolio is based on a Gatsby Theme.
 Serves as a portfolio for Sushant, housing projects and contact details.
+The portfolio is currently deployed online using Netlify at https://sushant-potu.netlify.app
 
 
 
