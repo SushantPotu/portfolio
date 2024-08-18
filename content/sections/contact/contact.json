@@ -3,8 +3,8 @@
   "email": "spotu3@gmail.com",
   "description": "My inbox is always open for messages, so feel free to contact me on any of these platforms and I'll do my best to get back to you as soon as possible!",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/email.png",
+    "alt": "Email me!"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
