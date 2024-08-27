@@ -21,11 +21,11 @@
       "visible": true,
       "category": "Fun Game",
       "title": "Tic Tac Toe",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "description": "A recreation of the popular game Tic-Tac-Toe using React and HTML/CSS for UI elements",
       "tags": ["Ready-To-Use"],
       "image": {
         "src": "../../images/TicTacToeSS.PNG",
-        "linkTo": "https://github.com/SushantPotu/tictactoe"
+        "linkTo": "https://github.com/SushantPotu/Tic-Tac-Toe"
       },
       "links": [
         {
