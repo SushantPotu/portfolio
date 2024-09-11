@@ -21,7 +21,7 @@
       "visible": true,
       "category": "Fun Game",
       "title": "Tic Tac Toe",
-      "description": "A recreation of the popular game Tic-Tac-Toe using React and HTML/CSS for UI elements",
+      "description": "A recreation of the popular game Tic-Tac-Toe using React and HTML/CSS for UI elements.",
       "tags": ["Ready-To-Use"],
       "image": {
         "src": "../../images/TicTacToeSS.PNG",
