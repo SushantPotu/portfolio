@@ -2,35 +2,39 @@
   "projects": [
     {
       "visible": true,
-      "category": "Web Scraper",
-      "title": "Reddit Web Scraper",
-      "description": "This application a very simple setup process, needing just a Reddit API registered account. Just install the application, add your account details, and get scraping!",
-      "tags": ["Simple Setup", "No Coding Required"],
+      "category": "AI Productivity/Note-taking Tool",
+      "title": "NoteTaker",
+      "description": "Full-stack mobile OCR platform that digitizes handwritten notes. Uses an OpenCV pipeline for image preprocessing and Microsoft TrOCR to transcribe cursive text with 94% accuracy, fully indexed for search via PostgreSQL.",
+      "tags": ["React Native", "OpenCV", "Ready-To-Use"],
       "image": {
-        "src": "../../images/scraper.PNG",
-        "linkTo": "https://github.com/SushantPotu/Reddit-Scraper"
+        "src": "../../images/notetaker.PNG",
+        "linkTo": "https://github.com/SushantPotu/NoteTaker-App"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/SushantPotu/Reddit-Scraper"
+          "url": "https://github.com/SushantPotu/NoteTaker-App"
         }
       ]
     },
     {
       "visible": true,
-      "category": "Fun Game",
-      "title": "Tic Tac Toe",
-      "description": "A recreation of the popular game Tic-Tac-Toe using React and HTML/CSS for UI elements.",
-      "tags": ["Ready-To-Use"],
+      "category": "iOS Health App",
+      "title": "UNC Macro Tracker",
+      "description": "Native iOS application enabling real-time nutritional tracking for university dining. Reverse-engineered internal AJAX APIs to scrape live menu data and implemented a client-side caching layer using SwiftUI and MVVM.",
+      "tags": ["SwiftUI", "Reverse Engineering", "MVVM", "iOS"],
       "image": {
-        "src": "../../images/TicTacToeSS.PNG",
-        "linkTo": "https://github.com/SushantPotu/Tic-Tac-Toe"
+        "src": "../../images/macrotracker.PNG",
+        "linkTo": "https://github.com/SushantPotu/Macro-Counter"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/SushantPotu/tictactoe"
+          "url": "https://github.com/SushantPotu/Macro-Counter"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/SushantPotu/Macro-Counter"
         }
       ]
     }
