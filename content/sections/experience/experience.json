@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Software Developer",
+    "company": "CARVR",
+    "date": "Aug 2024 – Present",
+    "description": "Building AR/VR solutions using Unity, C#, ShaderLab, and Mathematica."
+  },
+  {
+    "role": "AI Developer",
+    "company": "AI at UNC",
+    "date": "Aug 2024 – Present",
+    "description": "Working on AI applications and research competitions."
+  },
+  {
+    "role": "Programmer",
+    "company": "Competitive Programming Club",
+    "date": "Aug 2024 – Present",
+    "description": "Solving ICPC-style problems and practicing on Leetcode and Codeforces."
+  }
+]

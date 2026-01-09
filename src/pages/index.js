@@ -1,4 +1,5 @@
 import React from "react";
+
 import {
   AboutSection,
   ContactSection,
@@ -8,6 +9,9 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
+import ExperienceSection from "../components/ExperienceSection";
+
+
 export default function IndexPage() {
   return (
     <>
@@ -15,6 +19,7 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
+        <ExperienceSection sectionId="experience" heading="Experience" />
         <ProjectsSection sectionId="projects" heading="Projects" />
         <ContactSection sectionId="github" heading="Contact Me" />
       </Page>
